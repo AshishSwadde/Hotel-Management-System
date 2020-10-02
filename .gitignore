@@ -16,7 +16,7 @@ jobs/**
 #uncomment the following line to save next build numbers with config
 #!jobs/**/nextBuildNumber
 
-#exclude only config.xml files in repository subdirectories
+#exclude only config.xml files in the repository sub-directories
 !config.xml
 
 #don't track workspaces (when users build on the master)
